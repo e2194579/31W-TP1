@@ -1,7 +1,6 @@
-# Exercice - 1
-## Premier thème et plugin  Wordpress
+# TP1 - Theme Wordpress
 
-[GitHub-Page](https://e2194579.github.io/31w-ext1/) 
+[GitHub-Page](https://github.com/e2194579/31W-TP1) 
 > Le thème contient Plusieurs fichiers dont:
 index.php
 style.css
